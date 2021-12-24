@@ -1,0 +1,23 @@
+body {
+  background: url("sss.jpg");
+
+}
+
+h1{
+  text-align: center;
+}
+
+.ssa{  background: black;
+color: green;
+max-width: 700px;
+height: 600px;
+margin: 50px auto;
+box-sizing: border-box;
+padding: 40px;
+box-shadow: 0 0 20px rgba(72, 98, 85, 0.6);}
+
+#forgotpass{
+  width: 1000px;
+  height: 50px
+  margin-bottom: 100px;
+}
